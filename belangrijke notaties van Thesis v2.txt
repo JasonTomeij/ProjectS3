@@ -1,0 +1,241 @@
+belangrijke notaties van Thesis: 
+
+* Design science research methodology is a process for creating and evaluating innovative artifacts to solve real-world problems, adding new knowledge to a field
+
+
+*het verschil is dat vaardigheden specifieke, meetbare en praktische vaardigheden zijn, zoals een softwareprogramma beheersen of een taal spreken. Competenties zijn breder en omvatten een combinatie van kennis, vaardigheden en gedrag, zoals leiderschap of probleemoplossend vermogen, die nodig zijn om een taak succesvol uit te voeren.
+
+p4: (onderzoeksprobleem) Door de intrede van AI is er een verandering in competenties aan de gang voor digital marketeers. Op deze veranderingen moeten hogescholen hun curricula aanpassen om relevant te blijven voor het werkveld. Dit vraagt om een "Needs Analysis" tussen de vraag naar competenties (werkveld) en het aanbod van competenties (opleidingen). 
+
+
+
+P5: competenties meerdere betekenissen (prestaties van organisaties te beoordelen + vaardigheden die nodig zijn voor de beroepspraktijk.) 
+p6: competenties: Competenties omvatten een breder scala aan kenmerken, waaronder kennis, vaardigheden en attitudes, en zijn context specifiek.
+
+p8: Viable system model goed bekijken!
+
+p12: literatuuronderzoek ook de sites doornemen
+
+p16: Dit opent nieuwe mogelijkheden voor toepassing van systeemdenken in onderwijscontexten. Voor onderwijsonderzoek ligt de betekenis in het aantonen dat proactieve curriculumontwikkeling mogelijk is. In plaats van altijd achter ontwikkelingen aan te lopen, kunnen hogescholen met dit systeem anticiperen op veranderingen. Dit verschuift het denken van reactief naar strategisch curriculum-management.
+
+p17: Probleemidentificatie
+Hogescholen bereiden studenten voor op het beroepsveld na de opleiding. Belangrijk voor het werkveld is dat het profiel van studenten aansluit bij de continu veranderende eisen van het werkveld. Dit is een complex vraagstuk waarbij enerzijds technologie een grote rol speelt en anderzijds curricula voortdurend up-to-date gehouden moeten worden. Een manier om dit op te lossen is een Needs Analysis, echter is dit een eenmalig onderzoek en geen structurele oplossing. Deze studie richt zich op de ontwikkeling van een monitoringsysteem dat structureel te raadplegen is en hogescholen realtime van de eisen van het werkveld aan het competentieprofiel kunnen voorzien. Het onderzoek zal zich richten op marketing competenties. In eerste instantie wordt de impact van technologie op marketing competenties onderzocht en vervolgens zullen deskresearch en interviews plaatsvinden.
+
+
+p20: Curriculum wordt uitgelegd als het leerplan voor de opleiding. In het curriculum zit de leerstof en de doelen verwerkt die behaald dienen te worden (Wikipedia, 2022). De leerstof en de doelen vormen de basis voor vakken die in het curriculum opgenomen worden.
+
+
+p21: Eerder is het gegaan over de benodigde technische skills, oftewel hard skills. Naast hard skills is er in toenemende mate behoefte aan soft skills. Voorbeelden van belangrijke soft skills zijn probleemoplossend vermogen en aanpassingsvermogen. Deze vaardigheden worden als essentieel gezien voor carrièresucces
+
+
+p24 aantal methoden om te evalueren of het curriculum voldoet aan de beoogde doelen.
+
+p25: Hogeschool Utrecht en Hogeschool Windesheim; 
+Beide geïnterviewden gaven aan dat het onderwijs altijd minimaal 1 jaar achterloopt bij de beroepspraktijk, omdat de vernieuwingen in het onderwijs het voorafgaande jaar vastgelegd wordt. Een ander knelpunt is de houdbaarheid van de opgedane kennis door de student
+
+
+p26: kwaliteitseisen CMS!!!
+
+p27: Functionele requirements!
+
+p28: criteria per functional requirement.
+3 systemen: Network Theory, Viable System Model (VSM, Complex Adaptive Systems (CAS)
+
+p32 tabel geeft info over langdurig project
+
+p34: hij heeft een steekproef gedaan over de data-filtratie -> heeft hij een betrouwbaarheids interval.
+
+
+p34: De vacatureteksten worden door een Natural Language Processing (NLP) pipeline verwerkt, waarbij eerst de HTML-opmaak wordt verwijderd en de tekst wordt genormaliseerd. Dit zorgt voor een gestandaardiseerde input voor de verdere analyse.
+
+
+p35: welke competenties die zijn ingedeeld in zeven hoofdcatogoriën. 
+-> resultaten competentieanalyse (zie je welke vaardigheid het meest gevraagd wordt.)
+
+
+p37: Bij koplopers is er duidelijk meer focus op technische en data-analytische vaardigheden vergeleken met de algemene markt
+
+
+-Een koploper is iemand of iets dat een leidende positie inneemt, ofwel aan de frontlinie loopt bij een sportwedstrijd, ofwel vernieuwend is in een bepaald vakgebied.
+
+-Interdisciplinaire kennis is de kennis die ontstaat door de integratie van inzichten
+
+
+p43: 5 geïntegreerd subsystemen die een compleet beeld brengen van de CMS. 
+
+- Subsysteem 1 analyseert het huidige curriculum en de daarin vastgelegde leeruitkomsten. 
+- Subsysteem 2 brengt de actuele competentievraag van het werkveld in kaart door middel van een geavanceerde jobscraper
+- Subsysteem 3 richt zich specifiek op koplopers in het vakgebied, geïdentificeerd via de Emerce 100. 
+- Subsysteem 4 kijkt drie tot vijf jaar vooruit door gebruik te maken van scenarioanalyse
+- Subsysteem 5 vormt een cruciaal onderdeel dat de balans bewaakt tussen de operationele subsystemen (1-3) en het toekomstgerichte subsysteem (4). 
+
+
+p47: tabel update protocol.
+
+p48: lost problemen in curriculum. + toekomstige gap door trendanaylse.
+
+p63 potentiële bijdrage van Network theory als competentie-monitoringsysteem. 
+-> Viable System Model
+Het Viable System Model (VSM) kan een geschikt systeem zijn om competenties te monitoren en het curriculum te systematiseren. Het VSM, ontwikkeld binnen de cybernetica, is gebaseerd op vijf noodzakelijke subsystemen die interactief betrokken zijn bij elk levensvatbaar systeem, of het nu een organisme of een organisatie betreft. Deze subsystemen helpen een organisatie zijn identiteit te behouden binnen een gedeelde omgeving 
+
+p64 -> figuur 7
+
+p66: potentiele bijdrage VSM
+
+p78: opties en adviezen aan de HU vanuit de praktijk. 
+
+
+
+p101: 1ste interview over curriculumontwikkeling, 2de probleem identificatie. 
+
+p111: En die hebben we wel als basis gebruikt om onze eigen leeruitkomsten te definiëren, en dat hebben we getoetst aan het werkveld. Dus de volgorde in feite, dan kom je gelijk op de periodiciteit uit. Wij checken jaarlijks inderdaad - met ook de visitatie die we krijgen van Thuiswinkel - of de leeruitkomsten die we gedefinieerd hebben of die aansluiten bij de leeruitkomsten zoals Thuiswinkel die heeft gedefinieerd, de brancheorganisatie. Die heeft ze ook gedefinieerd op drie niveaus: niveau 4, 5 en 6.
+
+p112: 
+Interviewer: O, net zoals ze in het onderwijs gaan doen.
+
+Respondent: Ja. Want ze hebben ze, eigenlijk hebben ze ze gedefinieerd voor het onderwijs. Ze hebben, op basis van interviews met leden hebben ze - wat zij zeggen leeruitkomsten, maar als je de beschrijving ziet, zijn het met name competenties - op basis van interviews met leden hebben zij een lijst van competenties opgesteld op drie verschillende niveaus: mbo-4, Ad-niveau-5, en bachelor-niveau-6. En die gebruiken we een beetje als basis. En daar ijken, en dat komt op iedere keer, iedere twee jaar worden we gevisiteerd door Thuiswinkel. En dat is voor hen dan ook een belangrijk kader. Zij checken op basis van de leeruitkomsten die zij gedefinieerd hebben, of wij daaraan voldoen. En die leeruitkomsten die zij gedefinieerd hebben die zijn afkomstig uit interviews met leden uit het werkveld. En daarnaast, wat wij vervolgens doen, is wij sparren met de werkveldadviescommissie, of met andere bedrijven in de regio, van: in hoeverre sluit dit aan bij de wens van het werkveld?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
